@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1    group-title="Streams",ESPN
+http://free-premium-iptv.ddns.net:9090/load/freestreams/45.mpegts
+#EXTINF:-1    group-title="Streams",ESPN 2
+http://free-premium-iptv.ddns.net:9090/load/freestreams/46.mpegts
+#EXTINF:-1    group-title="Streams",ESPN NU
+http://free-premium-iptv.ddns.net:9090/load/freestreams/47.mpegts
+#EXTINF:-1    group-title="Streams",NBC SN
+http://free-premium-iptv.ddns.net:9090/load/freestreams/48.mpegts
+#EXTINF:-1    group-title="Streams",CBS SN
+http://free-premium-iptv.ddns.net:9090/load/freestreams/49.mpegts
+#EXTINF:-1    group-title="Streams",Fox Sports 1
+http://free-premium-iptv.ddns.net:9090/load/freestreams/50.mpegts
+#EXTINF:-1    group-title="Streams",Fox Sports 2
+http://free-premium-iptv.ddns.net:9090/load/freestreams/51.mpegts
+#EXTINF:-1    group-title="Streams",Sports Night Channel 46
+http://sports-night.eu/46.html
+#EXTINF:-1    group-title="Streams",Sports Night Channel 47
+http://sports-night.eu/47.html
+#EXTINF:-1    group-title="Streams",Sports Night Channel 48
+http://sports-night.eu/48.html
+#EXTINF:-1    group-title="Streams",Sports Night Channel 49
+http://sports-night.eu/49.html
