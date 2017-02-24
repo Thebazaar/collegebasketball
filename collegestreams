@@ -13,11 +13,47 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/49.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/50.mpegts
 #EXTINF:-1    group-title="Streams",Fox Sports 2
 http://free-premium-iptv.ddns.net:9090/load/freestreams/51.mpegts
-#EXTINF:-1    group-title="Streams",Sports Night Channel 46
-http://sports-night.eu/46.html
-#EXTINF:-1    group-title="Streams",Sports Night Channel 47
-http://sports-night.eu/47.html
-#EXTINF:-1    group-title="Streams",Sports Night Channel 48
-http://sports-night.eu/48.html
-#EXTINF:-1    group-title="Streams",Sports Night Channel 49
-http://sports-night.eu/49.html
+#EXTINF:-1,PAC 12 Arizona (HD link 1)
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,Pac 12 Arizona (HD link 2)
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,PAC 12 Bay Area (HD)
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,Pac 12 Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC 12 Los Angeles (HD)
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1,PAC 12 Mountain (HD)
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,PAC 12 National (HD link 1)
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1,Pac 12 National (HD link 2)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1,PAC 12 Oregon (HD)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,PAC 12 Washington (HD)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:0,NBA League Pass 1
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8074.ts
+#EXTINF:0,NBA League Pass 2
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8075.ts
+#EXTINF:0,NBA League Pass 3
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8076.ts
+#EXTINF:0,NBA League Pass 4
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8077.ts
+#EXTINF:0,NBA League Pass 5
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8078.ts
+#EXTINF:0,NBA League Pass 6
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8079.ts
+#EXTINF:0,NHL Center Ice 1
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8068.ts
+#EXTINF:0,NHL Center Ice 2
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8069.ts
+#EXTINF:0,NHL Center Ice 3
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8070.ts
+#EXTINF:0,NHL Center Ice 4
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8071.ts
+#EXTINF:0,NHL Center Ice 5
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8072.ts
+#EXTINF:0,NHL Center Ice 6
+http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/8073.ts
